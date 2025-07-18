@@ -1,0 +1,3 @@
+[submodule "live-data"]
+	path = live-data
+	url = https://github.com/ChocoLZS/linkura-live-data
