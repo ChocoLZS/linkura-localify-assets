@@ -1,3 +1,9 @@
 [submodule "live-data"]
 	path = live-data
 	url = https://github.com/ChocoLZS/linkura-live-data
+[submodule "linkura-msater-translation"]
+	path = linkura-msater-translation
+	url = https://github.com/idol-bbq-utils/linkura-master-translation
+[submodule "linkura-generic-strings-translation"]
+	path = linkura-generic-strings-translation
+	url = https://github.com/idol-bbq-utils/linkura-generic-strings-translation
