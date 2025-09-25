@@ -6,7 +6,7 @@ raw
 /local-files/MO-UDShinGo-SC-Gb4-M.otf
 *.pyc
 /local-files/genericTrans
-/local-files/localization.json
+/local-files/*
 *.zip
 Campus_adv_txts/
 node_modules/
