@@ -4,5 +4,6 @@ update-localization:
 merge:
 	pip install -r requirements.txt && python merge.py
 
-build-resource: update-localization merge
+# build-resource: update-localization merge
+build-resource: merge
 
